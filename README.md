@@ -64,7 +64,7 @@ Para instalar las dependencias y ejecutar el proyecto, sigue estos pasos:
 
    El proyecto estará disponible en [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-   ! Una vez inicializado el proyecto, puedes probar el proyecto por medio de Postman con los diferentes Endpoint tanto para los servicios Rest como SOAP ¡.
+   ! Una vez inicializado el proyecto, puedes probar el proyecto por medio de Postman con los diferentes Endpoint de los servicios SOAP ¡.
 
 ## ✨ Funcionalidades Implementadas
 
